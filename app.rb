@@ -3,7 +3,7 @@ require_relative 'config/environment'
 class App < Sinatra::Base
 
   get '/' do 
-    "jjjjjjjj "
+    "Welcome to your app "
   end
 
 end
